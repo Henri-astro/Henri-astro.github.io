@@ -3,6 +3,7 @@ body {
     background-repeat: no-repeat;
     background-size: cover;
     color: #FFFFFF;
+    background-color: #000000;
 }
 
 .boxed {
@@ -21,3 +22,12 @@ body {
     right: 10px;
 }
 
+/* unvisited link */
+a:link {
+  color: #00B000;
+}
+
+/* visited link */
+a:visited {
+  color: #008800;
+}
